@@ -64,3 +64,20 @@ The primary license for Uniswap V3 Core is the Business Source License 1.1 (`BUS
 
 - `contracts/libraries/FullMath.sol` is licensed under `MIT` (as indicated in its SPDX header), see [`contracts/libraries/LICENSE_MIT`](contracts/libraries/LICENSE_MIT)
 - All files in `contracts/test` remain unlicensed (as indicated in their SPDX headers).
+
+## Contributing  
+
+This repository was forked for educational and testing purposes.  
+If you are exploring Uniswap V3, feel free to:  
+- ⭐ Star this repository to show support.  
+- Fork and experiment with the code.  
+- Submit improvements, bug fixes, or documentation updates.  
+
+---
+
+## Additional Notes  
+
+This fork is connected with my learning journey on **Talent Protocol**.  
+The changes made here are non-functional and only serve as an example of how to contribute through GitHub commits and documentation updates.  
+
+Happy building on Web3 🚀
