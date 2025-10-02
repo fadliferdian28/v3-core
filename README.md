@@ -81,3 +81,4 @@ This fork is connected with my learning journey on **Talent Protocol**.
 The changes made here are non-functional and only serve as an example of how to contribute through GitHub commits and documentation updates.  
 
 Happy building on Web3 🚀
+docs: add contributing and additional notes section)
